@@ -1,7 +1,7 @@
 {
     "name": "SiteInfoWidget",
     "description": "Displays properties of the current selected site in a widget.",
-    "version": "0.1.0",
+    "version": "0.2.0",
 	"license": "GPL v3+",
     "theme": false,
 	"homepage": "https://github.com/iMarkus/Piwik-SiteInfoWidget",
